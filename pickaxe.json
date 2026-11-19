@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "arcanum:mana_crystal_ore",
+    "arcanum:mana_crystal_block",
+    "arcanum:mana_font"
+  ]
+}
